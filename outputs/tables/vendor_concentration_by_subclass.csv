@@ -1,0 +1,7 @@
+sub_classification,total_spend_usd,n_vendors,top_vendor,top_vendor_share_pct,hhi,risk_tier
+Adult,1360122113.4600003,28,Mylan,31.2,0.215,Moderate
+HIV test,212961651.72,22,Alere,47.5,0.306,High
+Pediatric,53097959.42,23,Aurobindo,28.3,0.193,Moderate
+ACT,664380.9400000001,3,Novartis Pharma Suffern,89.8,0.816,High
+HIV test - Ancillary,383110.08999999997,8,Alere,65.4,0.523,High
+Malaria,355241.66000000003,14,Micro labs,49.2,0.3,High
